@@ -34,7 +34,7 @@
 <p><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></p>
-<img src="https://img.shields.io/badge/TailwindCss%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=TailwindCss&amp;logoColor=skyblue" alt="Tailwindcss"></p>
+<img src="https://img.shields.io/badge/TailwindCss%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=TailwindCss&amp;logoColor=skyblue bg-black" alt="Tailwindcss"></p>
 </li>
 </ul>
 <br>
